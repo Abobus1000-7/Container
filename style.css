@@ -1,0 +1,43 @@
+div {
+	background: #00d1b9;
+	display: inline-block;
+	width: 30%;
+	text-align: center;
+	color: #6300c7;
+	margin-top: 400px;
+	border: 10px orange dotted;
+}
+
+img {
+	width: 221px;
+	height: 100px;
+}
+
+body {
+	text-align: center;
+	background: url(The_Abobus.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 722px;
+}
+
+a {
+	text-decoration: none;
+	background: url(The_Abobus.jpg);
+	background-size: cover;
+	color: white;
+	text-shadow: 0 0 0 black;
+	padding: 10px;
+}
+
+h1 {
+	text-shadow: 5px 5px 5px white;
+}
+
+.aboba {
+	border: 10px lightblue dashed;
+}
+
+.kirgiy{
+	border: 10px coral double;
+}
